@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://viroxedge.github.io" target="_blank" rel="noopener noreferrer">
-	<img src="assets/logo.png" width="500px"/>
+	<img src="assets/logo.svg" width="500px"/>
 </a>
 
 ---
